@@ -1,8 +1,5 @@
-22/01/2020
-THIS IS THE ACTIVE FORK OF timegridio/timegrid BECAUSE IT BECAME UNSUPPORTED BY 01/01/2018
-
-
-> :warning: **IMPORTANT WARNING** :warning: This project became unsupported by 01/01/2018. If you require further information, please contact the author.
+**22/01/2020
+THIS IS THE ACTIVE FORK OF timegridio/timegrid BECAUSE IT BECAME UNSUPPORTED BY 01/01/2018**
 
 <a href="#">
     <img src="http://i.imgur.com/pUUoU6H.png" alt="timegrid.io" title="timegrid.io" align="right" />
